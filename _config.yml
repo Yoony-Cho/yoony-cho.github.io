@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+future: true
 menu:
   - title: Home
     url: /
@@ -16,9 +17,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: by.cho.dev@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -28,12 +27,9 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: Yoony-Cho
+instagram_username: jar_yoon_
+linkedin_username: yoony-cho-profile
 
 
 # Posts Settings
@@ -44,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "https://yoony-cho.github.io/" # the subpath of your site, e.g. /blog
+url: "https://yoony-cho.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
