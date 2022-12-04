@@ -1,12 +1,12 @@
 ---
-date: 2022-12-02T00:30:05.000Z
+date: 2022-12-04T00:30:05.000Z
 layout: post
 published: true
 title: "[JavaScript] Data Types"
 subtitle: What is an Data Types?
 description: Let's find out the type and usage of Data Types
-image: https://miro.medium.com/max/1400/1*hZvTc8R_-IK7Jn1viLPJig.png
-optimized_image: https://miro.medium.com/max/1400/1*hZvTc8R_-IK7Jn1viLPJig.png
+image: https://cdn.pimylifeup.com/wp-content/uploads/2022/07/JavaScript-typeof-operator-Thumbnail.png
+optimized_image: https://cdn.pimylifeup.com/wp-content/uploads/2022/07/JavaScript-typeof-operator-Thumbnail.png
 category: JAVASCRIPT
 tags:
   - JS
