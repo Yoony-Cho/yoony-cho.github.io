@@ -235,22 +235,20 @@
   blockquote {
     @include center(rem(730px));
     border-left: rem(5px) solid $texts;
-    padding: 0 rem(10px);
     margin: rem(30px) auto;
     width: 90%;
 
     @include media(">=sm") {
       width: 100%;
       margin: rem(50px) auto;
-      padding: 0 rem(30px);
     }
 
     p {
-      font-size: rem(17px);
+      font-size: rem(13px);
       color: rgba(0, 0, 0, 0.6);
       margin: 0;
       @include media(">=sm") {
-        font-size: rem(20px);
+        font-size: rem(16px);
       }
     }
   }
