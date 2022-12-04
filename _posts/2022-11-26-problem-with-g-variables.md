@@ -4,8 +4,8 @@ layout: post
 title: "[JavaScript] Problems with global variables"
 subtitle: Problems with global variables
 description: Let's find out what's wrong with global variables
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWwnhSs2ijPwEPHfcIkqlwLkFeFqmG01aLxAt5qeodBqRcxG2jAoScVjMVQHpkbjuXIw&usqp=CAU
-optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWwnhSs2ijPwEPHfcIkqlwLkFeFqmG01aLxAt5qeodBqRcxG2jAoScVjMVQHpkbjuXIw&usqp=CAU
+image: https://boluda.com/files/variables-javascript.png
+optimized_image: https://boluda.com/files/variables-javascript.png
 category: JAVASCRIPT
 tags:
   - JS
