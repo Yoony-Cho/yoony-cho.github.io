@@ -4,8 +4,8 @@ layout: post
 title: "[JavaScript] variable"
 subtitle: What is a variable??
 description: Let's find out what variables are and why we need them
-image: http://cdn.shopify.com/s/files/1/1903/3233/articles/variable-free-fonts_grande.png
-optimized_image: http://cdn.shopify.com/s/files/1/1903/3233/articles/variable-free-fonts_grande.png
+image: https://i.ytimg.com/vi/Fo5FyZkmpIM/maxresdefault.jpg
+optimized_image: https://i.ytimg.com/vi/Fo5FyZkmpIM/maxresdefault.jpg
 category: JAVASCRIPT
 tags:
   - JS
