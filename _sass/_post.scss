@@ -265,14 +265,14 @@
 
   table {
     @include mainFont(400);
-    font-size: rem(17px);
+    font-size: rem(14px);
     line-height: rem(35px);
     letter-spacing: 0.025rem;
     margin: rem(50px) auto;
     border-collapse: collapse;
 
     @include media(">=sm") {
-      font-size: rem(20px);
+      font-size: rem(16px);
     }
 
     th,
