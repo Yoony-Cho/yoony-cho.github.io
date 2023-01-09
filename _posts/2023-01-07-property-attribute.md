@@ -5,8 +5,8 @@ published: true
 title: "[JavaScript] Property Attribute"
 subtitle: What is a Property Attribute?
 description: Let's find out the Property Attribute in JavaScript
-image: https://miro.medium.com/max/1052/1*2oAKZtsRSn_vWfJeHHWwYQ.png
-optimized_image: https://miro.medium.com/max/1052/1*2oAKZtsRSn_vWfJeHHWwYQ.png
+image: https://velog.velcdn.com/images/yena1025/post/194d172d-1e7f-4a33-9cb5-5c861479cf3b/image.jpg
+optimized_image: https://velog.velcdn.com/images/yena1025/post/194d172d-1e7f-4a33-9cb5-5c861479cf3b/image.jpg
 category: JAVASCRIPT
 tags:
   - JS
